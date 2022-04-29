@@ -211,3 +211,23 @@ p {
   .tweet-mention {
     color:lightskyblue;
   }
+
+  .tweet-text-bottom {
+    margin-bottom: 50px;
+  }
+  
+  .firstname {
+    margin-bottom: 15px;
+    margin-right: 5px;
+    height:20px;
+    width: 100px;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+  }
+
+  .email {
+    display: block;
+    width: 220px;
+    height: 20px;
+  }
